@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false" >
+    <item android:duration="50" >
+        <clip
+            android:clipOrientation="horizontal"
+            android:drawable="@drawable/home_unlock_to_success_00"
+            android:gravity="left"/>
+    </item>
+    <item android:duration="50" >
+        <clip
+            android:clipOrientation="horizontal"
+            android:drawable="@drawable/home_unlock_to_success_01"
+            android:gravity="left"/>
+    </item>
+    <item android:duration="50" >
+        <clip
+            android:clipOrientation="horizontal"
+            android:drawable="@drawable/home_unlock_to_success_02"
+            android:gravity="left"/>
+    </item>
+    <item android:duration="50" >
+        <clip
+            android:clipOrientation="horizontal"
+            android:drawable="@drawable/home_unlock_to_success_03"
+            android:gravity="left"/>
+    </item>
+    <item android:duration="50" >
+        <clip
+            android:clipOrientation="horizontal"
+            android:drawable="@drawable/home_unlock_to_success_04"
+            android:gravity="left"/>
+    </item>
+    <item android:duration="50" >
+        <clip
+            android:clipOrientation="horizontal"
+            android:drawable="@drawable/home_unlock_to_success_05"
+            android:gravity="left"/>
+    </item>
+    <item android:duration="50" >
+        <clip
+            android:clipOrientation="horizontal"
+            android:drawable="@drawable/home_unlock_to_success_06"
+            android:gravity="left"/>
+    </item>
+    <item android:duration="50" >
+        <clip
+            android:clipOrientation="horizontal"
+            android:drawable="@drawable/home_unlock_to_success_07"
+            android:gravity="left"/>
+    </item>
+    <item android:duration="50" >
+        <clip
+            android:clipOrientation="horizontal"
+            android:drawable="@drawable/home_unlock_to_success_08"
+            android:gravity="left"/>
+    </item>
+    <item android:duration="50" >
+        <clip
+            android:clipOrientation="horizontal"
+            android:drawable="@drawable/home_unlock_to_success_09"
+            android:gravity="left"/>
+    </item>
+    <item android:duration="50" >
+        <clip
+            android:clipOrientation="horizontal"
+            android:drawable="@drawable/home_unlock_to_success_10"
+            android:gravity="left"/>
+    </item>
+    <item android:duration="50" >
+        <clip
+            android:clipOrientation="horizontal"
+            android:drawable="@drawable/home_unlock_to_success_11"
+            android:gravity="left"/>
+    </item>
+    <item android:duration="50" >
+        <clip
+            android:clipOrientation="horizontal"
+            android:drawable="@drawable/home_unlock_to_success_12"
+            android:gravity="left"/>
+    </item>
+    <item android:duration="50" >
+        <clip
+            android:clipOrientation="horizontal"
+            android:drawable="@drawable/home_unlock_to_success_13"
+            android:gravity="left"/>
+    </item>
+    <item android:duration="50" >
+        <clip
+            android:clipOrientation="horizontal"
+            android:drawable="@drawable/home_unlock_to_success_14"
+            android:gravity="left"/>
+    </item>
+    <item android:duration="50" >
+        <clip
+            android:clipOrientation="horizontal"
+            android:drawable="@drawable/home_unlock_to_success_15"
+            android:gravity="left"/>
+    </item>
+    <item android:duration="50" >
+        <clip
+            android:clipOrientation="horizontal"
+            android:drawable="@drawable/home_unlock_to_success_16"
+            android:gravity="left"/>
+    </item>
+    <item android:duration="50" >
+        <clip
+            android:clipOrientation="horizontal"
+            android:drawable="@drawable/home_unlock_to_success_17"
+            android:gravity="left"/>
+    </item>
+    <item android:duration="50" >
+        <clip
+            android:clipOrientation="horizontal"
+            android:drawable="@drawable/home_unlock_to_success_18"
+            android:gravity="left"/>
+    </item>
+    <item android:duration="50" >
+        <clip
+            android:clipOrientation="horizontal"
+            android:drawable="@drawable/home_unlock_to_success_19"
+            android:gravity="left"/>
+    </item>
+    <item android:duration="50" >
+        <clip
+            android:clipOrientation="horizontal"
+            android:drawable="@drawable/home_unlock_to_success_20"
+            android:gravity="left"/>
+    </item>
+    <item android:duration="50" >
+        <clip
+            android:clipOrientation="horizontal"
+            android:drawable="@drawable/home_unlock_to_success_21"
+            android:gravity="left"/>
+    </item>
+    <item android:duration="50" >
+        <clip
+            android:clipOrientation="horizontal"
+            android:drawable="@drawable/home_unlock_to_success_22"
+            android:gravity="left"/>
+    </item>
+    <item android:duration="50" >
+        <clip
+            android:clipOrientation="horizontal"
+            android:drawable="@drawable/home_unlock_to_success_23"
+            android:gravity="left"/>
+    </item>
+    <item android:duration="50" >
+        <clip
+            android:clipOrientation="horizontal"
+            android:drawable="@drawable/home_unlock_to_success_24"
+            android:gravity="left"/>
+    </item>
+    <item android:duration="50" >
+        <clip
+            android:clipOrientation="horizontal"
+            android:drawable="@drawable/home_unlock_to_success_25"
+            android:gravity="left"/>
+    </item>
+    <item android:duration="50" >
+        <clip
+            android:clipOrientation="horizontal"
+            android:drawable="@drawable/home_unlock_to_success_26"
+            android:gravity="left"/>
+    </item>
+    <item android:duration="50" >
+        <clip
+            android:clipOrientation="horizontal"
+            android:drawable="@drawable/home_unlock_to_success_27"
+            android:gravity="left"/>
+    </item>
+    <item android:duration="50" >
+        <clip
+            android:clipOrientation="horizontal"
+            android:drawable="@drawable/home_unlock_to_success_28"
+            android:gravity="left"/>
+    </item>
+    <item android:duration="50" >
+        <clip
+            android:clipOrientation="horizontal"
+            android:drawable="@drawable/home_unlock_to_success_29"
+            android:gravity="left"/>
+    </item>
+    <item android:duration="50" >
+        <clip
+            android:clipOrientation="horizontal"
+            android:drawable="@drawable/home_unlock_to_success_30"
+            android:gravity="left"/>
+    </item>
+    <item android:duration="50" >
+        <clip
+            android:clipOrientation="horizontal"
+            android:drawable="@drawable/home_unlock_to_success_31"
+            android:gravity="left"/>
+    </item>
+    <item android:duration="50" >
+        <clip
+            android:clipOrientation="horizontal"
+            android:drawable="@drawable/home_unlock_to_success_32"
+            android:gravity="left"/>
+    </item>
+</animation-list>

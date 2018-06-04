@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ProgressBar
+        android:id="@+id/loading"
+        android:layout_margin="20dp"
+        android:indeterminateDuration="1000"
+            android:indeterminateDrawable="@drawable/loading"
+        android:layout_width="40dp"
+        android:indeterminateBehavior="cycle"
+        android:layout_height="40dp" />
+    <ProgressBar
+        android:id="@+id/success"
+        android:layout_margin="20dp"
+        android:indeterminateDrawable="@drawable/sucess"
+        android:layout_width="40dp"
+        android:layout_height="40dp" />
+    <ProgressBar
+        android:id="@+id/fail"
+        android:layout_margin="20dp"
+        android:indeterminateDrawable="@drawable/fail"
+        android:layout_width="40dp"
+        android:layout_height="40dp" />
+</android.support.v7.widget.LinearLayoutCompat>
